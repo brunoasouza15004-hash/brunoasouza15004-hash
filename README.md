@@ -8,10 +8,9 @@
       
 
   <td width="60%" align="left">
-        <h3>🚀 Fullstack Developer</h3>
+        <h3> Fullstack Developer</h3>
         <p>
-          Focada em Java, Spring Boot e arquiteturas de alto contraste. 
-          Buscando sempre a máxima eficiência e performance no código.
+          Java | MySQl | Spring boot | React | JavaScript | HTML/CSS
         </p>
         <p><i>"Cruising for code."</i></p>
       </td>
@@ -19,33 +18,33 @@
   </table>
 </div>
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Fullstack+Java+Developer;Product+Owner;Comandante+Mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Web;Fullstack+Java+Developer;MySQL;Springboot" alt="Typing SVG" />
   </h1>
 </div>
 
 ---
 
-Sobre Mim
-Lidero projetos focados em Arquitetura Backend e Tecnologias Assistivas, sempre priorizando código limpo e soluções escaláveis. Sigo a Estética do Contraste em tudo o que desenvolvo: interfaces diretas, funcionais e de alto impacto visual.
+tenho 18 anos e atualmente estou cursando o ensino médio. Tenho grande interesse na área de tecnologia, especialmente em desenvolvimento web, e estou em formação no curso de Programação Web Java pelo Instituto PROA.
 
-Foco Atual: Aperfeiçoamento em microsserviços com Java e Spring Boot.
-Certificação: Microsoft Certified: Azure Fundamentals (AZ-900).
-Mindset: Alta produtividade e entrega técnica rigorosa.
-Hobby: Desenho de personagens, Sudoku e um bom café.
+Sou uma pessoa dedicada, curiosa e sempre em busca de aprendizado contínuo. Tenho interesse em adquirir novas experiências, desenvolver minhas habilidades técnicas e crescer profissionalmente na área de tecnologia.
+
+Estou aberto a oportunidades que me permitam evoluir, contribuir com projetos e ampliar meus conhecimentos, sempre buscando dar o meu melhor e aprender algo novo a cada desafio..
 
 ---
 <div align = "center">
 
-💻 Tech Stack
- [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,azure)](https://skillicons.dev)
+# 💻 Tech Stack
+
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,html,css,javascript,react,figma)](https://skillicons.dev)
 
 </div>
 
 
 <div align= "center">
 
-📊 GitHub Stats
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&currStreakLabel=00D4FF&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&hide_border=true" />
+# 📊 GitHub Stats
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunoasouza15004-hash&theme=tokyonight&currStreakLabel=00D4FF&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&hide_border=true" />
 </div>
 
 ---
